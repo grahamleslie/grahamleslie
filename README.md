@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 - 🔭 I'm currently working at [Procore](https://github.com/procore).
 - 🏓 I built a really simple CI tool for Docker called [Schrodinger](https://github.com/grahamleslie/schrodinger).
